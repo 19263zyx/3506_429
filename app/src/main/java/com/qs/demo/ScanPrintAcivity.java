@@ -442,9 +442,9 @@ public class ScanPrintAcivity extends Activity {
 
 
 
-	/**
 
-	 */扫描信息获取
+
+	 //扫描信息获取
 	BroadcastReceiver receiver = new BroadcastReceiver() {
 		@Override
 		public void onReceive(Context context, Intent intent) {
