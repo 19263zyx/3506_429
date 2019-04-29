@@ -332,7 +332,7 @@ public class ScanPrintAcivity extends Activity {
 	}
 
 	/**
-	 * 打印文字
+	 * 打印文字222
 	 */
 	public void printText() {
 
