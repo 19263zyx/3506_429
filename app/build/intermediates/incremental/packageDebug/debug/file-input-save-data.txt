@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Mon Apr 29 09:10:06 CST 2019
+1.base=E\:\\QSPDA_studio\\TestDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+2.path=barcode.xls
+0.baseType=DIRECTORY
+2.base=E\:\\QSPDA_studio\\TestDemo\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=DEX
+0.path=lib/armeabi/libPosApi.so
+0.set=NATIVE_RESOURCE
+0.base=E\:\\QSPDA_studio\\TestDemo\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+2.baseType=DIRECTORY
+1.path=classes.dex

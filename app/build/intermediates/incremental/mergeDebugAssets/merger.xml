@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\QSPDA_studio\TestDemo\app\src\main\assets"><file name="barcode.xls" path="E:\QSPDA_studio\TestDemo\app\src\main\assets\barcode.xls"/></source><source path="E:\QSPDA_studio\TestDemo\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\QSPDA_studio\TestDemo\app\src\debug\assets"/></dataSet></merger>
