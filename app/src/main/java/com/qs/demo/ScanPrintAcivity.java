@@ -332,7 +332,7 @@ public class ScanPrintAcivity extends Activity {
 	}
 
 	/**
-	 * 打印文字
+	 * 打印文字123
 	 */
 	public void printText() {
 
@@ -444,7 +444,7 @@ public class ScanPrintAcivity extends Activity {
 
 
 
-	 //扫描信息获取
+	 //扫描
 	BroadcastReceiver receiver = new BroadcastReceiver() {
 		@Override
 		public void onReceive(Context context, Intent intent) {
