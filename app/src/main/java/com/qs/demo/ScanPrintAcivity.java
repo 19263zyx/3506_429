@@ -332,12 +332,12 @@ public class ScanPrintAcivity extends Activity {
 	}
 
 	/**
-	 * 打印文字222
+	 * 打印文字
 	 */
 	public void printText() {
 
 		try {
-			// 获取编辑框中的字符串1234
+			// 获取编辑框中的字符串
 			str2 = mTv.getText().toString().trim();
 			String[] array = str2.split("]");
 			for (int i = 0; i < array.length; i++) {
