@@ -337,7 +337,7 @@ public class ScanPrintAcivity extends Activity {
 	public void printText() {
 
 		try {
-			// 获取编辑框中的字符串1234
+			// 获取编辑框中的字符串123456
 			str2 = mTv.getText().toString().trim();
 			String[] array = str2.split("]");
 			for (int i = 0; i < array.length; i++) {
